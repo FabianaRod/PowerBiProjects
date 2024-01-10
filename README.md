@@ -15,7 +15,7 @@ This is my largest data analysis project with Power BI ☑️📊. You can acces
 
 
 
-In this project I used
+In this project I performed almost **60 different calculations** by applying the following:
 
 🟢 Calculated Columns:
 - Date and time functions
@@ -63,4 +63,16 @@ To create a comprehensive overview and analyze the:
 
 
 
-In this repository you can also find other smaller projects. Take a look at them 👀
+
+
+
+## Super Bowl Stats 1967 - 2020 
+
+In this repository you can also find my (smaller) Super Bowl Project in spanish. You can take a look here: https://bit.ly/3vvQgpG 👀 and also download the raw file.
+
+This one has allowed me to apply the main DAX functions and tools such as concatenation, SWITCH function and its respective ELSE, calculated columns, TOTALYTD function, creation of a Calendar Table and COUNTX function.
+
+### This is an overview 
+
+![image](https://github.com/FabianaRod/PowerBiProjects/assets/155020943/7b4232e3-39af-4bda-ae5e-a06317cb40c2)
+
