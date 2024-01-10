@@ -23,7 +23,7 @@ In this project I used
 - Text functions
 - RELATED function
 
-🔵 Measurements:
+🔵 Measures:
 - Mathematical and statistical functions
 - CALCULATE function
 - ALL and FILTER functions
