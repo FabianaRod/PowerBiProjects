@@ -1,7 +1,7 @@
 # PowerBiProjects
 My repository dedicated to data analysis projects with Power BI: Query Editor data cleaning, DAX and visualization tools.
 
-## Dax Contoso Sales Project
+## Contoso Sales DAX Project
 
 This is my **largest** data analysis project with Power BI ☑️📊. You can access the project through the following link:
 
