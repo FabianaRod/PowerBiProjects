@@ -2,7 +2,7 @@
 
 This repository contains my Power BI projects, which focuses on analyzing and visualizing data using Microsoft Power BI Query Editor for data cleaning, and DAX calculations.
 
-## Contoso Sales DAX Project 📈
+## Contoso Sales DAX Project 📈 (Spanish)
 
 The main objective of this project is to provide a detailed analysis of Contoso's company sales, using more than **60 DAX calculations** to obtain key information on financial performance and trends over time.
 
@@ -71,7 +71,7 @@ The following are some of the key calculations performed in the project using th
 
 This is only a summary of the calculations performed in the project. 
 
-## Super Bowl Stats 1967 - 2020 
+## Super Bowl Stats 1967 - 2020 🏈 (Spanish)
 
 In this repository you can also find my (smaller) 👌 Super Bowl Project. You can take a look here: https://bit.ly/3vvQgpG 👀 and also download the raw file.
 
